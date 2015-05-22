@@ -2,9 +2,13 @@ body {
     margin: auto;
     padding-right: 1em;
     padding-left: 1em;
-    max-width: 44em; 
+    max-width: 44em;
+/*
+    did not like the border lines on the side
+ 
     border-left: 1px solid black;
     border-right: 1px solid black;
+*/
     color: black;
     font-family: Verdana, sans-serif;
     font-size: 100%;
