@@ -106,7 +106,7 @@ Of course you could setup a *makefile* or use *Apache ANT*, but the whole idea b
 It is right [here](./sample.text).
 
 -----
-&copy; 2015 Michigan State University
+Just some text below a horizonal line.
 
 </body>
 </html>
