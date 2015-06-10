@@ -5,10 +5,11 @@
  * 
  */
 body {
-    margin: auto;
+/* This caused the page to be centered.  
+    margin: auto; */
     padding-right: 1em;
     padding-left: 1em;
-    max-width: 44em;
+    max-width: 44em; 
 /*
     did not like the border lines on the side
  
